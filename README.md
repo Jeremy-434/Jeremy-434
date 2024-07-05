@@ -14,5 +14,5 @@ Frontend developer, UX enthusiast, and JavaScript engineer
 - 😄 **Pronouns:** He/Him
 - 🌱 **I’m currently learning:** Next.js and full-stack development
 - 🏋️‍♂️ **Fun fact:** I'm a gym enthusiast and love hitting the weights early in the morning to kickstart my day!
-- 💬 **Ask me about:** JavaScript, CSS, React, Node.js, and anything about web development
+- 💬 **Ask me about:** JavaScript, CSS, React, Next.js, and anything about web development
 - 🎹 **Fun fact:** I play the piano 🎹
