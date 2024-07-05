@@ -5,7 +5,7 @@
 
 Frontend developer, UX enthusiast, and JavaScript engineer
 
-[Portfolio](https://portfolio-jere-mz.vercel.app/) | [Twitter](https://twitter.com/your-twitter-handle) | [LinkedIn](https://www.linkedin.com/in/jeremy-mejia-z/)
+[Portfolio](https://portfolio-jere-mz.vercel.app/) | [LinkedIn](https://www.linkedin.com/in/jeremy-mejia-z/)
 <!--
 👋 I'm currently working with my hands to make magic happen on the web. View my [Projects](https://your-projects-link.com), [Articles](https://your-articles-link.com), [Résumé](https://your-resume-link.com), [Contact Me](https://your-contact-link.com).
 -->
