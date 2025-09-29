@@ -12,7 +12,7 @@ Frontend developer, UX enthusiast, and JavaScript engineer
 📫 You can reach me at [jeremy9451.lmd@gmail.com](mailto:jeremy9451.lmd@gmail.com).
 
 - 😄 **Pronouns:** He/Him
-- 🌱 **I’m currently learning:** Next.js and full-stack development
+- 🌱 **I’m currently learning:** Django
 - 🏋️‍♂️ **Fun fact:** I'm a gym enthusiast and love hitting the weights early in the morning to kickstart my day!
-- 💬 **Ask me about:** JavaScript, CSS, React, Next.js, and anything about web development
+- 💬 **Ask me about:** Typescript, CSS, React, Next.js, Django and anything about web development
 - 🎹 **Fun fact:** I play the piano 🎹
