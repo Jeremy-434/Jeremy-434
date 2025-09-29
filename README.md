@@ -3,7 +3,7 @@
 -->
 # I'm Jeremy!
 
-Frontend developer, UX enthusiast, and JavaScript engineer
+Full-stack Developer, System Engineer
 
 [Portfolio](https://portfolio-jere-mz.vercel.app/) | [LinkedIn](https://www.linkedin.com/in/jeremy-mejia-z/)
 <!--
