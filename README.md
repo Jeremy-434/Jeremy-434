@@ -3,7 +3,7 @@
 -->
 # I'm Jeremy!
 
-Full-stack Developer, System Engineer
+Developer, System Engineer
 
 [Portfolio](https://portfolio-jere-mz.vercel.app/) | [LinkedIn](https://www.linkedin.com/in/jeremy-mejia-z/)
 <!--
