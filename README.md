@@ -7,9 +7,9 @@
 -->
 # I'm Jeremy!
 
-Senior Software Developer | Systems Engineer
+Software Developer | Systems Engineer
 
-[Portfolio](https://zenttu.com) | [LinkedIn](https://linkedin.com/in/jeremy-mejia-z/)
+[LinkedIn](https://linkedin.com/in/jeremy-mejia-z/)
 
 📫 You can reach me at [jeremy9451.lmd@gmail.com](mailto:jeremy9451.lmd@gmail.com).
 
